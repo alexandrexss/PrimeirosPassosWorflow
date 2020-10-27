@@ -1,0 +1,19 @@
+{
+  "name": "primeirospassosworkflow",
+  "version": "1.0.0",
+  "description": "\"Testes iniciais\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrexss/PrimeirosPassosWorflow.git"
+  },
+  "author": "\"Alexandre Ramos\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrexss/PrimeirosPassosWorflow/issues"
+  },
+  "homepage": "https://github.com/alexandrexss/PrimeirosPassosWorflow#readme"
+}
